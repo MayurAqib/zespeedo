@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599139585480",
+    "project_id": "zespeedo-ab880",
+    "storage_bucket": "zespeedo-ab880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599139585480:android:63ffebb413e214010fc4fd",
+        "android_client_info": {
+          "package_name": "com.example.zespeedo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIlrAN-hTPg6GcLju713s5iv78U3jju6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
